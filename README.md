@@ -8,7 +8,7 @@ const sergio = {
     technologies: {
         frontEnd: {
             js: ["React"],
-            css: ["bootstrap"]
+            css: [""]
         },
         backEnd: ["Nodejs"],
         databases: ["MySql"],
